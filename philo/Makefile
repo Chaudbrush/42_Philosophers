@@ -12,7 +12,7 @@ HEADER := philo.h
 
 CC := cc
 
-CFLAGS := -Wall -Werror -Wextra
+CFLAGS := -Wall -Werror -Wextra -pthread
 
 RM := rm -f
 
